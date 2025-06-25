@@ -1,5 +1,4 @@
-# BOC-Smart-Banking-UI
-A modern UI/UX concept for the BOC SmartPay mobile banking app, designed in Figma for iOS (iPhone 16). Includes screens for login, dashboard, fund transfer, bill payments, and user profile.
+
 # BOC SmartPay – iOS Mobile Banking App UI Concept (iPhone 16)
 
 This is a self-initiated UI/UX design project for the **BOC SmartPay mobile banking app**, created using **Figma** for **iOS (iPhone 16)** screen size. The goal of this project is to explore and enhance the digital banking experience through a clean, modern, and user-centric interface.
