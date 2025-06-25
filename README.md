@@ -33,5 +33,5 @@ This is a **personal concept project** and is **not affiliated with or endorsed 
 
 ## 📷 Preview
 
-![BOC SmartPay UI Preview](screenshots/boc_ui_screenshot.png)
+![BOC SmartPay UI Preview](screenshots/Screenshot 2025-06-25 172801.png)
 
